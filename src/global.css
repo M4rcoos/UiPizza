@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   scroll-behavior: smooth;
+}
+body{
+    background-color:#000;
+}
+
+p{
+    color: #fff;
+    font-family: 'Ruda', sans-serif;
+}
