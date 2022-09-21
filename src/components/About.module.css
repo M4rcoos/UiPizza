@@ -6,7 +6,7 @@
 .background{
    width: 500px;
    height: 714px;
-    background-image: url('public/assets/restaurant-5521372_1920 1.png');
+    background-image: url("../../public/assets/restaurant-5521372_1920 1.png");
     transform: none;
     transform: rotate(0deg);
 }
