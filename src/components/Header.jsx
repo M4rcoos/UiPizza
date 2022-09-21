@@ -5,10 +5,13 @@ export function Header (){
         <div className={style.content}>
             <h3 className={style.logo}>la caravana</h3>
             <div className={style.nav}>
-            <p>Home</p>
-            <p>About US</p>
-            <p>Menu</p>
-            <p>Contact</p>
+                <ul>
+                    <li> <a href="#Home">Home</a> </li>
+                    <li> <a href="#AboutUS">About US</a></li>
+                    <li><a href="#Menu">Menu</a></li>
+                    <li><a href="#Contact">Contact</a></li>
+                </ul>
+        
             </div>
            
         </div>

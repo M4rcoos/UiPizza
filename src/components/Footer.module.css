@@ -1,0 +1,24 @@
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url("../../public/assets/backgroundBaner.png");
+    background-repeat: no-repeat;
+	background-size: cover;
+    margin-top: 6.063rem;
+    padding-bottom: 260px;
+}
+.pizzaToFooter{
+    transform: rotate(270deg);
+    margin-top: -58px;
+
+}
+.h1Footer{
+    margin-top: 85px;
+    margin-bottom: 45px;
+}
+.copyrigth{
+    text-align: center;
+    padding: 1.813rem 0;
+}

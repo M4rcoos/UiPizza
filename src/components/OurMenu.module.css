@@ -1,0 +1,13 @@
+.titleMenu{text-align: center;
+ width: 474px;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.list{
+    margin-top: 1.813rem;
+    display: flex;
+    gap:4.5rem;
+}

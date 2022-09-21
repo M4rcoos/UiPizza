@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    padding: 140px 0px 141px 81px;
+    gap : 10rem
+}
+.background{
+   width: 500px;
+   height: 714px;
+    background-image: url('public/assets/restaurant-5521372_1920 1.png');
+    transform: none;
+    transform: rotate(0deg);
+}
+.imgRestaurant{
+    opacity: -0;
+    height: 200px;
+    
+}
+.h2About{
+    font-family: 'Quattrocento';
+    border-bottom: 4px solid #F2C94C;
+    color: #fff;
+    font-size: 4.5rem;
+    width: 474px;
+}
+.sectionAbout{
+    width: 474px;
+}
+p{
+    margin-top: 25px;
+    line-height: 40px;
+    font-size: 25px;
+}
+.btn{
+    margin-top: 150px;
+}

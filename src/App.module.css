@@ -1,5 +1,5 @@
 .content{
-    background-image: url('./assets/backgroundBaner.png');
+    background-image: url('./public/assets/backgroundBaner.png');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -10,12 +10,12 @@
 
 }
 .contentImg{
-margin-bottom: -150px;
+margin-bottom: -3.625rem;
 display: flex;
 justify-content: center;
 align-items: center;
 }
-img{
+.imgPizza{
    display: inline-block;
    transform: rotate(90deg);
 }
@@ -34,4 +34,55 @@ h1{
     font-size:25px;
     margin-bottom: 80px;
     line-height: 40px;
+}
+.FindUs{
+    text-align: center;
+    width: 474px;
+}
+.sectionFindUs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 63px 80px 0 80px;
+
+}
+.map{
+width:536px;
+height:500px;
+}
+.contentFindUs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+
+    gap: 5.438rem;
+    margin-top: 5.625rem;
+    margin-bottom: 14.313rem;
+}
+.ourMenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0 121px;
+}
+.ourMenuTitle{
+    text-align: center;
+    margin-top: 6.063rem;
+    width: 474px;
+}
+.descriptionMenu{
+    text-align: center;
+}
+.contentimg{
+    margin-top: 50px;
+    display: flex;
+    gap:5rem;
+    margin-bottom:3.625rem ;
+}
+.imgMenu{
+    Width:480px;
+    Height:260px
 }

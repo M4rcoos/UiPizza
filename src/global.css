@@ -12,3 +12,19 @@ p{
     color: #fff;
     font-family: 'Ruda', sans-serif;
 }
+h2{
+    font-family: 'Quattrocento';
+    border-bottom: 4px solid #F2C94C;
+    color: #fff;
+    font-size: 4.5rem;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+button{
+    border: 1px solid#F2C94C;
+    padding: 0.75rem;
+    width: 129px;
+    height: 54px;
+    background: transparent;
+    color:#F2C94C;
+}

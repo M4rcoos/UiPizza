@@ -10,16 +10,19 @@
     font-family: 'Ruda', sans-serif;
     font-size: 1.5rem;;
 }
-.nav{
+
+ul{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
     gap:2rem;
-
-   
+    list-style-type: none;
 }
-.nav p{
+ul li  > a{
     text-transform: uppercase;
     font-size: 1.25rem;
+    color: #fff;
+    font-family: 'Ruda', sans-serif;
+    text-decoration: none;
 }

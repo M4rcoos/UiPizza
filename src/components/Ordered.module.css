@@ -1,0 +1,39 @@
+.section{
+    display: flex;
+    gap:2.75rem;
+    padding: 2.813rem 2.438rem  3.25rem 5.063rem;
+}
+.section > .prato1 >div{
+    margin-left: 1rem;
+
+}
+.section > .prato1> div> .tituloDoPrato{
+    max-width: 21.75rem; 
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.section > .prato1> div> .tituloDoPrato> h3{
+    font-family: 'Ruda', sans-serif;
+    color: #F2C94C;
+    font-weight: 400;
+    font-size: 1.75rem;
+    display: flex;
+    justify-content: space-between;
+    gap:8.2rem;
+    max-width: fit-content; 
+}
+.section > .prato1> div> p{
+    font-size: 25px;
+    line-height: 40px;
+    font-weight:400;
+}
+
+.section >.prato1 > img{
+    max-width: 17.063rem;
+    max-height: 12.5rem;
+}
+.section > .prato1{
+    display: flex;
+}
