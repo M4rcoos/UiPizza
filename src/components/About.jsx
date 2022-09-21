@@ -1,5 +1,5 @@
 import style from "./About.module.css";
-import imagemRestaurante from '../../public/assets/restaurant-5521372_1920 1.png'
+import imagemRestaurante from '/assets/restaurant-5521372_1920 1.png'
 
 export function About() {
   return (
