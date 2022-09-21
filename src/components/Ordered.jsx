@@ -33,6 +33,7 @@ export function Ordered({img, img2, img3}) {
         </div>
       </div>
     </section>
+    
     </>
   
   );

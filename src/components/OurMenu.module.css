@@ -1,5 +1,6 @@
 .titleMenu{text-align: center;
  width: 474px;
+ margin-top: 80px;
 }
 header{
     display: flex;
@@ -10,4 +11,8 @@ header{
     margin-top: 1.813rem;
     display: flex;
     gap:4.5rem;
+}
+.container{
+    padding: 10rem 4rem;
+
 }

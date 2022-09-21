@@ -18,7 +18,7 @@ export function OurMenu(){
                 <li><a href="#">Promotion</a></li>
             </ul>
         </header>
-        <section>
+        <section className={styles.container}>
             <Ordered img={prato1}/>
             <Ordered img={prato2}/>
             <Ordered img={prato3}/>
